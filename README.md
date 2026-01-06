@@ -1,4 +1,4 @@
-# ece59012_project
+# MoodTail Mobile APP
 
 **Figma:**  
 [MoodTail Figma](https://www.figma.com/design/7o5hWqsmMyiqHi9smdosMl/MoodTail?node-id=0-1&t=YNOXtvzgI0yQLwbo-1)
