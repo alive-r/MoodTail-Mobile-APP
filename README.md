@@ -14,7 +14,7 @@
 1. Clone projects
 
     ```
-    git clone https://gitlab.oit.duke.edu/ly202/ece59012_project.git
+    git clone https://github.com/alive-r/MoodTail-Mobile-APP.git
     cd MoodTail
     ```
 
