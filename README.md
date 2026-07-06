@@ -1,5 +1,7 @@
 # MoodTail Mobile APP
 
+<img width="2462" height="1630" alt="image" src="https://github.com/user-attachments/assets/ff6c681e-51c0-4c90-88c3-69866cca1792" />
+
 **Figma:**  
 [MoodTail Figma](https://www.figma.com/design/7o5hWqsmMyiqHi9smdosMl/MoodTail?node-id=0-1&t=YNOXtvzgI0yQLwbo-1)
 
